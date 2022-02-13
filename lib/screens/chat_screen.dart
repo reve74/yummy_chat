@@ -51,7 +51,7 @@ class _ChatScreenState extends State<ChatScreen> {
           ),
         ],
       ),
-      // body: StreamBuilder(
+      // body: StreamBuilder(   // 수정할 코드
       //   stream: FirebaseFirestore.instance
       //       .collection('chats/aC24TUr8spnIh4PuvjRi/message')
       //       .snapshots(),

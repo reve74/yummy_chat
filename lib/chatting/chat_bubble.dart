@@ -18,7 +18,7 @@ class ChatBubble extends StatelessWidget {
               topRight: Radius.circular(12),
               topLeft: Radius.circular(12),
               bottomRight: isMe ? Radius.circular(0) : Radius.circular(12),
-              bottomLeft:  isMe ? Radius.circular(12) : Radius.circular(0),
+              bottomLeft: isMe ? Radius.circular(12) : Radius.circular(0),
             ),
           ),
           width: 145,
